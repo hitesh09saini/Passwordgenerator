@@ -1,10 +1,10 @@
 
 import './App.css';
-import ColorChanger from './ColorChanger'
+import Password from './Password.js'
 function App() {
   return (
     <>
-      <ColorChanger></ColorChanger>
+      <Password></Password>
     </>
   );
 }
